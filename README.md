@@ -1,5 +1,11 @@
 # mal2json
 
+mal2json is a tool that can be used to convert MAL specifications into
+easily manipulable JSON files.
+
+
+## Requirements 
+
 This project requires at least Java 10.
 
 ## Build
